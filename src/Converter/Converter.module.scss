@@ -1,0 +1,17 @@
+.converter {
+ 	display: flex;
+  	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.select {
+	margin-top: 40px;
+	width: 48%;
+	&.modific {
+		background-color: #4e8b4e6e;
+		color: #fff;
+	}
+}
+
